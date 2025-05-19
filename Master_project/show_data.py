@@ -1,4 +1,4 @@
-# This part is to decide the indices which are highly relative with the price prediction
+# Эта часть предназначена для определения показателей, которые в значительной степени связаны с прогнозированием цены
 
 
 import matplotlib.pyplot as plt
